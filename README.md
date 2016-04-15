@@ -19,3 +19,8 @@ This is compatible with the next json
 ```
 {"page": 3, "text": "foo"}
 ```
+
+(And, it is lens field)
+```
+x ^. page
+```
