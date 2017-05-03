@@ -1,5 +1,5 @@
 name:                api-field-json-th
-version:             0.1.0.1
+version:             0.1.0.2
 synopsis:            option of aeson's deriveJSON 
 description:         Utils for using aeson's deriveJSON with lens's makeFields
 homepage:            https://github.com/nakaji-dayo/api-field-json-th
