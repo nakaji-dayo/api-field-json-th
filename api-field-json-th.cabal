@@ -6,7 +6,7 @@ homepage:            https://github.com/nakaji-dayo/api-field-json-th
 license:             BSD3
 license-file:        LICENSE
 author:              Daishi Nakajima
-maintainer:          nakaji.dayo@example.com
+maintainer:          nakaji.dayo@gmail.com
 copyright:           2016 Daishi Nakajima
 category:            Utils
 build-type:          Simple
